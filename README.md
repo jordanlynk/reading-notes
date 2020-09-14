@@ -4,6 +4,7 @@ My name is Jordan Kidwell, I just turned 25. I love all animals, coffee, anythin
 
 # Table of Contents for Reading
 - [Class 1: Growth Mindset](GROWTHMINDSET.md)
+- [Class 1 Cheat Sheet](cheatsheet.md)
 
 
 # Table of Contents for Review
