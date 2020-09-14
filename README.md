@@ -7,6 +7,9 @@ Growth mindset for me is the ability to take an action and no matter what you th
 - I was born to learn and to keep learning
 - If you find a path with no obstacles, it probably doesn't lead anywhere
 
+! (https://www.techtello.com/wp-content/uploads/2020/06/fixed-mindset-vs-growth-mindset-chart.png)
+
+
 
 
 
