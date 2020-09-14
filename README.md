@@ -3,7 +3,7 @@
 My name is Jordan Kidwell, I just turned 25. I love all animals, coffee, anything that challenges me and diving into a good book.
 
 # Table Of Contents
-- [Growth Mindset](GROWTHMINDSET.)
+- [Class 1: Growth Mindset](GROWTHMINDSET.md)
 
 ## Growth Mindset
 Growth mindset for me is the ability to take an action and no matter what you think the outcome is going to be, *push through.* To never assume you're automatically going to fail. I know that there isn't always going to be an easy or clear solution to problems in life, but **_perseverance_** is what encourages me to push through and look for the greener pasture.
