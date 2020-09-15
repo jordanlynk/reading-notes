@@ -6,3 +6,5 @@ _**Reminders for Growth Mindset**_
 - **Mistakes Happen.** Mistakes will help me learn and grow.
 - **Learning isn't overnight.** I was born to learn and to keep learning.
 - **Obstacles don't always mean failure.** If you find a path with no obstacles, it probably doesn't lead anywhere.
+
+[<--Back](readme.md)
