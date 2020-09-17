@@ -11,6 +11,7 @@ My name is Jordan Kidwell, I just turned 25. I'm a newbie to coding and can't wa
 - [Class 5: CSS](css.md)
 - [Class 6: JS Notes]()
 - [Class 7: JS Notes Pt.2](jsnotes7.md)
+- [Class 8: Operators and Loops](operatorsandloops.md)
 
 
 
