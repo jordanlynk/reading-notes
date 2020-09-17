@@ -1,4 +1,4 @@
-#CSS
+# CSS
 
 - CSS allows you to create rules that control each box individually and the content within it.
 - CSS works by associating rules with HTML elements. These rules control how the content of specified elements should display. CSS rule contains two parts; _selector_ which indicate the element the rule applies to. The same rule can apply to more than one if you seperate the element names with commas. _Declarations_ indicate how the elements referred to the selector should be styled. They are split into two parts, a property and a value and are seperated by a colon. 

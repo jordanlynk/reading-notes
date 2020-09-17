@@ -13,7 +13,7 @@ My name is Jordan Kidwell, I just turned 25. I'm a newbie to coding and can't wa
 
 
 # Table of Contents for Review
-- [Class 1: Review](class1-review.md)
+- [Class 1: Review](review.md)
 
 
 
