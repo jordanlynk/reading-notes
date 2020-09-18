@@ -2,7 +2,7 @@
 
 - _Take Input_: any info or data sent to a computer for processing
 - _Store Info_: based on the information given by what device, it is stored to later be remembered
-- _Process 
+- _Process_: process outside information and sends it to the correct place to be stored/learned 
 - Output The Results: what the computer sends back out based on the information it has learned/recieved
 
 # Binary & Data
