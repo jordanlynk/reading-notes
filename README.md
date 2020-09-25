@@ -1,6 +1,6 @@
 # Jordan's Page
 
-My name is Jordan Kidwell, I just turned 25. I'm a newbie to coding and can't wait to see what the future holds for me. I love all animals, coffee, anything that challenges me and diving into a good book.
+My name is Jordan Kidwell, I just turned 25. I have 2 sister kittens, Nebula & Gamora. I'm a newbie to coding and can't wait to see what the future holds for me. I love all animals, coffee, anything that challenges me and diving into a good book.
 
 # Table of Contents for Reading 102
 - [Class 1: Growth Mindset](GROWTHMINDSET.md)
