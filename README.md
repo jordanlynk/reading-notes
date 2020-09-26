@@ -12,7 +12,6 @@ My name is Jordan Kidwell, I just turned 25. I have 2 sister kittens, Nebula & G
 - [Class 6: Computer Arch and Logic Notes](computerinfo.md)
 - [Class 7: JS Notes Pt.2](jsnotes7.md)
 - [Class 8: Operators and Loops](operatorsandloops.md)
-- 
 
 # Code 201 Reading Notes:
 - [Class 1: Reading](class-01.md)
