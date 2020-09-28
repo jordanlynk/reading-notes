@@ -15,7 +15,7 @@ My name is Jordan Kidwell, I just turned 25. I have 2 sister kittens, Nebula & G
 
 # Code 201 Reading Notes:
 - [Class 1: Reading](class-01.md)
-- [Class 2: Reading]()
+- [Class 2: Reading](class-02.md)
 - [Class 3: Reading]()
 - [Class 4: Reading]()
 - [Class 5: Reading]()
