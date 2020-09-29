@@ -23,11 +23,11 @@
 
 # Chapter 13: "Boxes"
 
-_Box Dimensions_: Width & Height
-_Limiting Width_: Min-width, specifies the smallest size a box can be displayed at when the browser window is narrow. Max-width, makes sure that lines of texts do not appear too wide within a big browser window.
-_Limiting Height_: Min-Height & Max-Height
-_Overflowing Content_: overflow; hidden is the property that hides any extra content that does not fit in the box. scroll, this property adds a scrollbar to the box so that users can scroll to see the missing content
-_Border Width_: controls the width of a border. values; thin, med & thick, border-top-width, border-right-width, border-bottom-width, border-left-width
+- _Box Dimensions_: Width & Height
+- _Limiting Width_: Min-width, specifies the smallest size a box can be displayed at when the browser window is narrow. Max-width, makes sure that lines of texts do not appear too wide within a big browser window.
+- _Limiting Height_: Min-Height & Max-Height
+- _Overflowing Content_: overflow; hidden is the property that hides any extra content that does not fit in the box. scroll, this property adds a scrollbar to the box so that users can scroll to see the missing content
+- _Border Width_: controls the width of a border. values; thin, med & thick, border-top-width, border-right-width, border-bottom-width, border-left-width
 - _Border Style_: controls the style of a border using the border-style property
 - solid; single solid line
 - dotted; square dots 
@@ -60,18 +60,18 @@ _Margin_:
 _Centering Content_:
 - if you want to center a box on the page, you can set the left or right margin to auto. In order to center the box you set a width for the box
 
-**CSS treats HTML elements are it's own box**
-**CSS can control the dimensions of a box, along with borders, margins and padding for each box**
-**You can hide elements using the display and visibility properties**
-**Block-level boxes can turn into inline boxes and vice versa**
-**Legibility can be altered by changing the width of boxes containing text & the leading**
-**CSS3 has the ability to create image and rounded borders**
+- **CSS treats HTML elements are it's own box**
+- **CSS can control the dimensions of a box, along with borders, margins and padding for each box**
+- **You can hide elements using the display and visibility properties**
+- **Block-level boxes can turn into inline boxes and vice versa**
+- **Legibility can be altered by changing the width of boxes containing text & the leading**
+- **CSS3 has the ability to create image and rounded borders**
 
 # JS Chapter 2 Review:
 
-_Arrays_: can store a list of values. You should consider it an array when working with a _list_ or set of values that are _related_ to one another.
-_Creating An Array_: start with var, then name your array. Also referred to as _array literal_
-_Values In Arrays_: values are accessed as if they're in a numbered list. The start of numbering on this list starts at 0 and not 1.
+- _Arrays_: can store a list of values. You should consider it an array when working with a _list_ or set of values that are _related_ to one another.
+- _Creating An Array_: start with var, then name your array. Also referred to as _array literal_
+- _Values In Arrays_: values are accessed as if they're in a numbered list. The start of numbering on this list starts at 0 and not 1.
 
 # Chapter 4: Decisions and Loops
 
@@ -95,12 +95,12 @@ _Loops_:
 - While; If you do know how many times the code should run, you can use a _while_ loop. The condition can be something other than a counter to loop for as long as the condition is true.
 -Do While; It will always run the statements inside the curly braces at least once, even if the condition evaluates to false.
 
-**Coniditionals allow your code to make decisions on what to do next**
-**Logical operators allow you to combine more than one set of comparisons**
-**if...else allow you to run one set of code with conditions that are true or false**
-**Switch statements compare a value against possible outcomes, can also provide a default option if there's no match**
-**All values evaluate to truthy or falsy**
-**Three types of loops: for, while and do...while. Each repeats a set of statements**
+- **Conditionals allow your code to make decisions on what to do next**
+- **Logical operators allow you to combine more than one set of comparisons**
+- **if...else allow you to run one set of code with conditions that are true or false**
+- **Switch statements compare a value against possible outcomes, can also provide a default option if there's no match**
+- **All values evaluate to truthy or falsy**
+- **Three types of loops: for, while and do...while. Each repeats a set of statements**
 
 
 
