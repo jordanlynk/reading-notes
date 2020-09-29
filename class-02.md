@@ -2,31 +2,31 @@
 
 
 ## Chapter 2: "Text"
-- HTML has 6 "levels" of headings: h1, h2, h3, h4, h5, h6
-- <p> create a paragraph
-- _Bold_ <b> makes characters appear bold
-- _Italics_ <i> makes characters appear in italics
-- _Superscript_ <sup> used to contain characters that should be superscript such as dates or mathematical concepts
-- _Subscript_ <sub> used to contain characters that should be subscript. Commonly used with foot notes or chemical formulas
+- HTML has 6 "levels" of headings: "h1", "h2", "h3", "h4", "h5", "h6"
+- "p" create a paragraph
+- _Bold_ "b" makes characters appear bold
+- _Italics_ "i" makes characters appear in italics
+- _Superscript_ "sup" used to contain characters that should be superscript such as dates or mathematical concepts
+- _Subscript_ "sub" used to contain characters that should be subscript. Commonly used with foot notes or chemical formulas
 - _White Space_ add extra spaces or start some elements on new lines to create spaces in text
-- _<br />_ adds a line break inside the middle of a paragraph
-- _<hr />_ creates a break between themes
-- _<strong>_ indicates it's content has strong importance
-- _<em>_ indicates emphasis that subtly changes
-- _<blockquote>_ used for longer quotes that use up a whole paragraph
-- _<q>_ used for shorter quotes that sit in a paragraph
-- _<abbr>_ abbreviation or an acronym uses this
-- _<cite>_ used when referencing a piece of work
-- _<dfn>_ used to reference the defining instance of a new term
-- _<address>_  contains contact details for the author
-- _<ins>_ shows content that has been inserted into a document
-- _<s>_ something that is no longer accurate or relevant, that you don't want to delete
+- _br /_ adds a line break inside the middle of a paragraph
+- _hr /_ creates a break between themes
+- _strong_ indicates it's content has strong importance
+- _em_ indicates emphasis that subtly changes
+- _blockquote_ used for longer quotes that use up a whole paragraph
+- _q_ used for shorter quotes that sit in a paragraph
+- _abbr_ abbreviation or an acronym uses this
+- _cite_ used when referencing a piece of work
+- _dfn_ used to reference the defining instance of a new term
+- _address_  contains contact details for the author
+- _ins_ shows content that has been inserted into a document
+- _s_ something that is no longer accurate or relevant, that you don't want to delete
 
 ## HTML elements describe the structure of the page
 ## They provide emphasis on where semantic information should be placed, the meaning of any acronyms and when given text is a quotation
 
 ## Chapter 10: "Introducing CSS"
-- _<link>_ tells the browser where to find the CSS file used to style the page
+- _"link"_ tells the browser where to find the CSS file used to style the page
 - _href_ specifies the path to the CSS file
 - _type_ specifies the type of document that's being linked
 - _rel_ specifies the relationship between HTML page and the file it's linked to. Stylesheet when linking to a CSS file
