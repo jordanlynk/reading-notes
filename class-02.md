@@ -4,42 +4,43 @@
 ## Chapter 2: "Text"
 - HTML has 6 "levels" of headings: h1, h2, h3, h4, h5, h6
 - <p> create a paragraph
-- _Bold_ <b>: makes characters appear bold
-- _Italics_ <i>: makes characters appear in italics
-- _Superscript_ <sup>: used to contain characters that should be superscript such as dates or mathematical concepts
-- _Subscript_ <sub>: used to contain characters that should be subscript. Commonly used with foot notes or chemical formulas
-- _White Space_: add extra spaces or start some elements on new lines to create spaces in text
-- _<br />_: adds a line break inside the middle of a paragraph
-- _<hr />_: creates a break between themes
-- _<strong>_: indicates it's content has strong importance
-- _<em>_: indicates emphasis that subtly changes
-- _<blockquote>_: used for longer quotes that use up a whole paragraph
-- _<q>_: used for shorter quotes that sit in a paragraph
-- _<abbr>_: abbreviation or an acronym uses this
-- _<cite>_: used when referencing a piece of work
-- _<dfn>_: used to reference the defining instance of a new term
-- _<address>_:  contains contact details for the author
-- _<ins>_: shows content that has been inserted into a document
-- _<s>_: something that is no longer accurate or relevant, that you don't want to delete
+- _Bold_ <b> makes characters appear bold
+- _Italics_ <i> makes characters appear in italics
+- _Superscript_ <sup> used to contain characters that should be superscript such as dates or mathematical concepts
+- _Subscript_ <sub> used to contain characters that should be subscript. Commonly used with foot notes or chemical formulas
+- _White Space_ add extra spaces or start some elements on new lines to create spaces in text
+- _<br />_ adds a line break inside the middle of a paragraph
+- _<hr />_ creates a break between themes
+- _<strong>_ indicates it's content has strong importance
+- _<em>_ indicates emphasis that subtly changes
+- _<blockquote>_ used for longer quotes that use up a whole paragraph
+- _<q>_ used for shorter quotes that sit in a paragraph
+- _<abbr>_ abbreviation or an acronym uses this
+- _<cite>_ used when referencing a piece of work
+- _<dfn>_ used to reference the defining instance of a new term
+- _<address>_  contains contact details for the author
+- _<ins>_ shows content that has been inserted into a document
+- _<s>_ something that is no longer accurate or relevant, that you don't want to delete
 
 ## HTML elements describe the structure of the page
 ## They provide emphasis on where semantic information should be placed, the meaning of any acronyms and when given text is a quotation
 
 ## Chapter 10: "Introducing CSS"
-- _<link>_: tells the browser where to find the CSS file used to style the page
-- _href_: specifies the path to the CSS file
-- _type_: specifies the type of document that's being linked
-- _rel_: specifies the relationship between HTML page and the file it's linked to. Stylesheet when linking to a CSS file
-- _style_: includes CSS rules within an HTML page, usually sits inside the head of the page
-- _**Selectors**_:
- _universal_; applies to all elements in the document. * ()
- _type_; matches element names. h1, h2, h3, ()
- _class_: matches element that has a value that matches the one specified after the period. .note () or p.note()
- _id_: #introduction ()
- _child_: li>a ()
- _descendant_: p a ()
- _adjacent sibling_: h1+p ()
- _general sibling_: h1-p ()
+- _<link>_ tells the browser where to find the CSS file used to style the page
+- _href_ specifies the path to the CSS file
+- _type_ specifies the type of document that's being linked
+- _rel_ specifies the relationship between HTML page and the file it's linked to. Stylesheet when linking to a CSS file
+- _style_ includes CSS rules within an HTML page, usually sits inside the head of the page
+
+- _**Selectors**_
+ _universal_ applies to all elements in the document. * ()
+ _type_ matches element names. h1, h2, h3, ()
+ _class_ matches element that has a value that matches the one specified after the period. .note () or p.note()
+ _id_ #introduction ()
+ _child_ li>a ()
+ _descendant_ p a ()
+ _adjacent sibling_ h1+p ()
+ _general sibling_ h1-p ()
 
  ## CSS treats HTML elements as if it appears in it's own box and uses rules to indicate how it should look
  ## Different selectors allow you to target your rules at different elements
@@ -54,16 +55,19 @@
 - a series of instructions a computer can follow step-by-step.
 - A browser may use different parts of the script depending on how the user interacts with the web page.
 - Scripts can run different sections of the code in response to the situation.
+
 ## Writing A Script:
 - to write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
 - Break down your big picture into what you want to achieve, break that down into smaller steps.
 - Define the goal; once you know the goal of your script, you can work out the individual tasks needed to achieve it. The taks can be represented using a flowchart.
 - Design the script; each task may be broken down into a sequence of steps. When you're ready to code the script, each step can then be translated into individual lines of code.
 - Code each step
+
 ## Expressions:
 - evaluates into a single value. There are two types of expression;
 - expressions that just assign a value to a variable. var color = 'beige'; the value of the color is now beige.
 - expressions that use two or more value to return a single value. var area = 3 * 2; the value of area is now 6.
+
 ## Operators:
 - expressions rely on things called operators; they allow programmers to create a single value from one or more values.
 - _Assignment operators:_ assign a value to a variable. color = 'beige';value of the color is now beige.
@@ -71,8 +75,10 @@
 - _String operators:_ combine two strings. greeting = 'Hi ' + 'Molly'; value of greeting is now Hi Molly.
 - _Comparison Operators:_ compare two values and return true or false. buy = 3 > 5; value of buy is false.
 - _Logical operators:_ combine expressions and return true or false. buy = (5 > 3) && (2 < 4); value of buy is now true.
+
 ## Arrays: 
 - special type of variable. It stores more than one piece of related info
+
 ## Arithmetic Operators
 - Addition: +
 - Subrtraction: -
@@ -83,6 +89,7 @@
 - Modulus: % divides the two values and returns the remainder
 - **Multiplication and division happen _before_ addition and subtraction**
 - Concatenation; the process of joining two or more strings to create one new string.
+
 ## Functions
 - functions let you group a series of statements together to perform a specific task. 
 - When you ask it to perform its task, its known as *calling* the function
@@ -98,6 +105,7 @@
 - Logical operators allow you to combine multiple sets of comparison operators
 - if...else statements run one set of code if a condition is true or false
 - switch statements allow you to compare a value against possible outcomes, provides a default if none match
+
 # Booleans:
 - == is equal to
 - != is not equal to 
@@ -107,11 +115,13 @@
 - >= greater than or equal to
 - < less than
 - <= checks if the number on the left is less than or equal to the number on the right 
+
 ## Loops
 - Loops check a condition. If it returns true, a code block will run. Then the condition will be checked again and if it still returns true, the code block will run again. It repeats until the condition returns false. There are three types of common loops:
 - For; if you need to run code a specific # of times, use a _for_ loop. In a _for_ loop, the condition is usually a counter which is used to tell how many times the loop should run.
 - While; If you do know how many times the code should run, you can use a _while_ loop. The condition can be something other than a counter to loop for as long as the condition is true.
 -Do While; It will always run the statements inside the curly braces at least once, even if the condition evaluates to false.
+
 ## Logical Operators:
 - Comparison operators usually return single values of true or false. Logical operators allow you to compare the results of more than one comparison operator.
 - && logical and; this operator tests more than one condition. If both expressions evaluate to true than the expression returns to true. If just one of these returns false, then the expression will return false.
