@@ -1,0 +1,78 @@
+# Domain Modeling
+- Domain modeling is the process of creating a conceptual model in code for a specific problem. A model describes the various entities, their attributes and behaviors, as well as the constraints that govern the problem domain. An entity that stores data in properties and encapsulates behaviors in methods is commonly referred to as an object-oriented model.
+- As a communication tool, it defines a vocabulary that can be used within and between both technical and business teams.
+- As you can see, the constructor function is defined using a function expression. In other words, the variable EpicFailVideo is declared and then assigned a function with two parameters called epicRating and hasAnimals.
+- When the function is called, the data inside these parameters are stored inside the this.epicRating and this.hasAnimals properties respectively. Storing data within properties ensures any newly created object can access that data later.
+- After the constructor function definition, two objects are instantiated with the new keyword and their properties are initialized by calling the EpicFailVideo constructor function. After being instantiated and initialized, these objects are stored inside the parkourFail and corgiFail variables.
+- Finally, the two newly created objects are logged to the console.
+- *This is object-oriented programming in JavaScript at its most fundamental level*
+  - The new keyword instantiates (i.e. creates) an object.
+  - The constructor function initializes properties inside that object using the this variable.
+  - The object is stored in a variable for later use.
+- *Prototype*: sort of like an object's stunt double. It can substitute in the protype to do the work while the object takes the glory.
+- *Assigning a function with no parameters*: this method starts by defining two variables called *viewers* and *percentage*
+- *Tips to follow when building domain models*:
+- When modeling a single entity that'll have many instances, build self-contained objects with the same attributes and behaviors.
+- Model its attributes with a constructor function that defines and initializes properties.
+- Model its behaviors with small methods that focus on doing one job well.
+- Create instances using the new keyword followed by a call to a constructor function.
+- Store the newly created object in a variable so you can access its properties and methods from outside.
+- Use the this variable within methods so you can access the object's properties and methods from inside.  
+
+# Chapter 6: "Tables"
+- Represents information in a grid format. Examples of tables include financial reports, TV schedules and sports results
+- table = is used to create a table, contents are written out row by row
+- tr = you can indicate the start of each row using the opening <tr> tag, tr stands for table row
+- td = each cell of a table is represented using a td element, stands for table data
+- th = is used just like the td element but it's purpose is to represent the heading for either a column or a row, stands for table heading
+- **The table element is used to add tables to a web page**
+- **A table is drawn out row by row. Each row is created with the tr element**
+- **Inside each row, there are a number of cells represented by the td elements or th, if it is a header**
+- **You can make cells of a table span more than one row or column using the rowspan and colspan attributes**
+- **For long tables you can split the table into a thead, tbody and tfoot**
+
+# Chapter 3: "Functions, Methods and Objects"
+- *Properties of the document object*
+- document.title = title of current document
+- document.lastModified = date on which document was last modified 
+- document.URL = returns string containing URL of current document
+- document.domain = returns domain of current document
+- *Methods of document object*
+- document.write() = writes text to document
+- document.getElementById() = returns element, if there's an element with the value of the id attribute that matches
+- document.querySelectorAll() = returns list of elements that match a CSS selector, which is specified as a parameter
+- document.createElement() = creates new element
+- document.createTextNode() = creats new text node
+- *String Object*
+- *property*:
+- length: = returns number of characters in the string in most cases
+- *method*:
+- toUpperCase() = changes string to uppercase
+- toLowerCase() = changes string to lowercase
+- charAt() = takes an index number as a parameter, and returns the character found at that position
+- indexOf() = returns index number of the first time a character or set of characters is found within the string 
+- lastIndexOf() = returns index number of the last time a character or set of charters is found within the string
+- subString() = returns characters found between two index numbers where the charcter for the first index number is inlcuded and the character for the last index number is not included
+- split() = when a character is specified, it splits the string each time it is found, then stores each individual part in an array
+- trim() = removes whitespace from start and end of string
+- replace() = like find & replace, it takes one value that should be found, and another to replace it (by default, it only replaces the first match it finds)
+- *Number Object*:
+- isNaN() = checks if the value is not a number
+- toFixed() = rounds to specified number of decimal places (returns a string)
+- toPrecision() = rounds to total number of places (returns a string)
+- toExponential() = returns a string representing the number in exponential notation
+- *Math Object*:
+- *Property*; math.PI = returns pi 
+- *Method*:
+- Math.round() = rounds number to the nearest integer
+- Math.sqrt(n) = returns square root of positive number. ex: Math.sqrt(9) returns 3
+- Math.ceil() = rounds number up to nearest ingeter
+- Math.floor() = rounds number down to nearest integer
+- Math.random() = generates a random number between 0 (inclusive) and 1 (not inclusive)
+- **Functions allow you to group a set of related statements together that represent a single task**
+- **Functions can take parameters(info required to do their job) and may return a value**
+- **An object is a series of variables and functions that represent something from the world around you**
+- **In an object, variables are known as properties of the object; functions are known as methods**
+- **Web browsers implement objects that represent both the browser window and the document loaded into the browser window**
+- **JS has several built-in objects such as String, Name, Math and Date**
+- **Arrays and objects can be used to create complex data sets, both can contain the other**
