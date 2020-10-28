@@ -2,7 +2,7 @@
 
 My name is Jordan Kidwell, I just turned 25. I have 2 sister kittens, Nebula & Gamora. I'm a newbie to coding and can't wait to see what the future holds for me. I love all animals, coffee, anything that challenges me and diving into a good book.
 
-# Table of Contents for Reading 102
+# Code 102 - Intro to Software Development
 - [Class 1: Growth Mindset](GROWTHMINDSET.md)
 - [Class 1: Markdown](learningmarkdown.md)
 - [Class 2: Terminal Commands](cheatsheet.md)
@@ -13,7 +13,7 @@ My name is Jordan Kidwell, I just turned 25. I have 2 sister kittens, Nebula & G
 - [Class 7: JS Notes Pt.2](jsnotes7.md)
 - [Class 8: Operators and Loops](operatorsandloops.md)
 
-# Code 201 Reading Notes:
+# Code 201 - Foundations of Software Development
 - [Class 1: Reading](class-01.md)
 - [Class 2: Reading](class-02.md)
 - [Class 3: Reading](class-03.md)
@@ -28,7 +28,10 @@ My name is Jordan Kidwell, I just turned 25. I have 2 sister kittens, Nebula & G
 - [Class 12: Reading](class-12.md)
 - [Class 13: Reading](class-13.md)
 - [Class 14: Reading](class-14.md)
-- [Class 15: Reading]()
+
+# Code 301 - Intermediate Software Development
+- [Class 1: Reading](read-day1.md)
+
 
 
 
