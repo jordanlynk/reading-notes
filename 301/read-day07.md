@@ -79,11 +79,11 @@
 ### Lesson 17: Altering Tables
 - As your data changes over time, SQL provides a way for you to update your corresponding tables and database schemas by using the ALTER TABLE statement to add, remove, or modify columns and table constraints.
 - The syntax for adding a new column is similar to the syntax when creating new rows in the CREATE TABLE statement. You need to specify the data type of the column along with any potential table constraints and default values to be applied to both existing and new rows. In some databases like MySQL, you can even specify where to insert the new column using the FIRST or AFTER clauses, though this is not a standard feature.
-- EX: ALTER TABLE mytable
+- *EX: ALTER TABLE mytable
 - ADD column DataType OptionalTableConstraint 
-- DEFAULT default_value;
+- DEFAULT default_value;*
 ### Lesson 18: Dropping Tables
 - In some rare cases, you may want to remove an entire table including all of its data and metadata, and to do so, you can use the DROP TABLE statement, which differs from the DELETE statement in that it also removes the table schema from the database entirely.
-- Ex: DROP TABLE IF EXISTS mytable;
+- *Ex: DROP TABLE IF EXISTS mytable;*
 
 
