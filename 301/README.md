@@ -39,6 +39,7 @@ My name is Jordan Kidwell, I just turned 25. I have 2 sister kittens, Nebula & G
 - [Class 8: Reading](read-day8.md)
 - [Class 9: Reading](read-day9.md)
 - [Class 10: Reading](read-day10.md)
+- [Class 11: Reading](read-day11.md)
 
 
 
