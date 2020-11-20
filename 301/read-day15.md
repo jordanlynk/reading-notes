@@ -1,0 +1,22 @@
+## Silicon Valley's gender gap is the result of computer-game marketing 20 years ago
+- In 2014, 70% of the employees at the top tech companies in Silicon Valley. In technical roles, this is even more prominent. ex: only 10% of the tech workforce at Twitter is female.
+- The numbers of women and men in computer science were on their way toward parity in the 1970-80's. 37% of computer science were women but those numbers began to drop dramatically in the middle of the decade. The dip in the 1980s has created a hardship in terms of bouncing back, the dude-centric computer marketing campaigns of that time could be to blame.
+- Programming is fast becoming the most lucrative skill you can acquire in the modern world. The Bureau of Labor Statisctics projects employment of computer and information-technology occupations will grow by 12% between 2014-2024.
+- Elizabeth Ames from the Anita Borg Institute for Women in Technology believes that one of the primary reasons can be traced back to the close relationship between computing and gaming in the 80s. The games tended to be more aimed at boys and men, so it was easy for boys to get a leg up in that area through gaming. 
+- As a result, a 1985 study reported that 73% of men used a computer on a weekly basis, compared to 45% of women surveyed.
+- Researcher Jane Margolis calls the “experience gap.” In a study she conducted in 1995, she found that among first-year computer-science students at Carnegie Mellon University, 40% of male respondents passed the advanced-placement computer-science exam, meaning they could skip the introductory-level programming class. None of the first year women achieved the same result.
+- Even when women do have considerable experience with coding and mathematics, the male-dominated environment that has arisen becomes an obstacle to entry for many
+- The few women who do make it into the field are far less likely to stay than their male counterparts. The Center for Talent Innovation, a research think tank, found that US women are 45% more likely than men to leave careers in technology. The research revealed that women often feel isolated due to a lack of female role models and the sense of being excluded from “buddy networks” among men.
+- Though there are isolated examples of both vintage and contemporary computer advertising aimed at women, it is clear that the advertising narrative around women and technology needs to be more inclusive if the gender gap is going to close
+## Why diversity matters to your tech company
+- Diversity efforts are most successful when they’re driven by a commitment from company leaders. And meaningful commitment requires leaders to understand why diversity matters.
+- "Diverse teams are smarter and more creative"
+- Study after study in fields like organizational science, psychology and education indicate that diversity offers significant benefits for teams focused on creativity and innovation. 
+- "Diverse groups of people bring to organizations more and different ways of seeing a problem and, thus, faster/better ways of solving it." - Scott E. Page
+- "A fully diverse and inclusive workplace is fundamental to our ability to innovate and deliver business results." - CEO Brian Krzanich
+- Given that diverse teams are smarter and more creative than homogeneous ones, it is unsurprising that a wealth of research shows a strong correlation between diverse organizations and positive financial outcomes. 
+- A 2003 study looking at 177 banks across the U.S., researchers found that for banks focused on innovation, racial diversity was clearly tied to better financial performance.
+- Failing to attract and hire employees from underrepresented backgrounds leads companies to miss out on incredible talent.
+- Many tech companies pride themselves on creating environments where "the best idea wins." By attracting diverse candidates and designing interviewing processes that ensure a level playing field, companies have a better chance of ensuring the best idea is at the table. 
+- When the employees of an organization better represent their users and desired users, they will build more effectively for those groups.
+- Some of these leaders have need that the tech industry is creating vast opportunity and that by excluding certain groups from that opportunity the industry is perpetuating and exacerbating existing social inequality.
