@@ -1,6 +1,6 @@
-# Jordan's Page
+# Jordan's Reading Notes
 
-My name is Jordan Kidwell, I just turned 25. I have 2 sister kittens, Nebula & Gamora. I'm a newbie to coding and can't wait to see what the future holds for me. I love all animals, coffee, anything that challenges me and diving into a good book.
+My name is Jordan Kidwell, I just turned 25. I have 2 sister kittens, Nebula & Gamora. I'm a newbie to coding and can't wait to see what the future holds for me. I love all animals, coffee, anything that challenges me and diving into a good book. This page serves as a note taking tool for me to be able to go back and look at certain topics I may have questions on, as well as other people wanting to know a little more about coding and the MANY topics that come along with it.
 
 # Code 102 - Intro to Software Development
 - [Class 1: Growth Mindset](GROWTHMINDSET.md)
