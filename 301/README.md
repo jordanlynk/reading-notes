@@ -44,6 +44,9 @@ My name is Jordan Kidwell, I just turned 25. I have 2 sister kittens, Nebula & G
 - [Class 14: Reading](read-day14a.md)
 - [Class 15: Reading](read-day15.md)
 
+# Code 401 - Advanced Software Development
+- [Class 1: Reading](reading-day1.md)
+
 
 
 
