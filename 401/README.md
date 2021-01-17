@@ -45,12 +45,12 @@ My name is Jordan Kidwell, I just turned 25. I have 2 sister kittens, Nebula & G
 - [Class 15: Reading](read-day15.md)
 
 # Code 401 - Advanced Software Development
-- ![Class 1: Reading](reading-day1.md)
-- ![Class 2: Reading](reading-day2.md)
-- ![Class 3: Reading](reading-day3.md)
-- ![Class 4: Reading](reading-day4.md)
-- ![Class 5: Reading](reading-day5.md)
-
+- [Class 1: Reading](/reading-day1.md)
+- [Class 2: Reading](/reading-day2.md)
+- [Class 3: Reading](/reading-day3.md)
+- [Class 4: Reading](/reading-day4.md)
+- [Class 5: Reading](/reading-day5.md)
+- [Class 6: Reading](/reading-day6.md)
 
 
 
