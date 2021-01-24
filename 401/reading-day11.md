@@ -9,7 +9,7 @@
 - Primarily to handle organization and structure of the database, as well as establish permissions throughout. 
 - **What do they look like?**
 - Schemas contain objects such as: tables, columns, data types, views, stored procedures, relationships, primary keys, foreign keys. etc. 
-[Source](https://www.tutorialspoint.com/dbms/dbms_data_schemas.htm)
+- [Source](https://www.tutorialspoint.com/dbms/dbms_data_schemas.htm)
 
 2.) *What are the different types of Database keys?*
 
@@ -21,8 +21,8 @@
 - A composite key is composed of two or more attributes that collectively uniquely identify each record. A combination of two keys. 
 - **How are they different? When do you use 1 over the others?**:
 - Foreign keys are used to tie together two tables, a primary key is the standard across the board for most tables, sort of like an index, it should really be used for standard tables that need a simple, exact unique identifier. Composite keys are really to be used when two pieces of information are needed to uniquely identify items.
-[Source 1] (https://www.csestack.org/different-types-database-keys-example/)
-[Source 2] (https://www.techopedia.com/7/32101/storage/what-is-the-difference-between-a-composite-key-primary-key-and-foreign-key)
+- [Source] (https://www.csestack.org/different-types-database-keys-example/)
+- [Source] (https://www.techopedia.com/7/32101/storage/what-is-the-difference-between-a-composite-key-primary-key-and-foreign-key)
 
 3.) *What are relationships in a relational database?*
 - **What is a 1:1 relationship?**:
@@ -31,7 +31,7 @@
 - It is a relationship where a parent row in one table contains several child rows in a second table, and vice versa. 
 - **How about a 1:Many or a Many:1?**:
 - These both are relationships between two seperate tables where a row from one table can have several matching rows in another table. It is created by using a Primary Key and Foreign key relationship.
-[Source 1] (https://www.tech-recipes.com/rx/56738/one-to-one-one-to-many-table-relationships-in-sql-server/)
-[Source 2] (https://condor.depaul.edu/gandrus/240IT/accesspages/relationships.htm)
+- [Source] (https://www.tech-recipes.com/rx/56738/one-to-one-one-to-many-table-relationships-in-sql-server/)
+- [Source] (https://condor.depaul.edu/gandrus/240IT/accesspages/relationships.htm)
 
 
